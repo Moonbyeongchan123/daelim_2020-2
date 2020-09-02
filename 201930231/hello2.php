@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="ko">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -8,11 +8,11 @@
 <body>
     <h1>대림대학교</h1>
     <?php
-<<<<<<< HEAD
-        echo  "123456 대림이 입니다.";
-=======
-        echo "123456 대림이 입니다.";
->>>>>>> src/master
+        echo "201930231 전소진입니다.";
+    ?>
+    <?php
+        echo "만나서 반갑습니다.";
     ?>
 </body>
 </html>
+
